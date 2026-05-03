@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Kol Ma A3eesh B3eed – Every Time I Live Far |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-ma-a3eesh-b3eed-every-time-i-live-far/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
